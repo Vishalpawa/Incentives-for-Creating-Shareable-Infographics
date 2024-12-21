@@ -8,6 +8,8 @@ This project implements a *the creation and sharing* of infographics using block
 
 *Contract Address:*  
 0xA8E61D22E18D7CFe98cd55E4FD9E65217A8D4816
+![image](https://github.com/user-attachments/assets/137ba539-f66f-4bcf-aa73-40c82db77aba)
+
 
 ## Project Vision
 Our vision is to promote the dissemination of valuable knowledge by rewarding creators and sharers for their contributions. This platform leverages the transparency, security, and immutability of blockchain to ensure fair distribution of rewards and trustworthiness.
